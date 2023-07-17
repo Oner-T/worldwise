@@ -18,7 +18,7 @@ export default function Homepage() {
           you have wandered the world.
         </h2>
         <Link to="/login" className="cta">
-          START TRACKIING NOW
+          START TRACKING NOW
         </Link>
       </section>
     </main>
